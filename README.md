@@ -1,2 +1,2 @@
 # travel_journey
-this is a react learning project
+This is a react tutorial learning project 
